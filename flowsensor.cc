@@ -1,5 +1,4 @@
 /*
-Liquid flow rate sensor -DIYhacking.com Arvind Sanjeev
 
 Measure the liquid/water flow rate using this code. 
 Connect Vcc and Gnd of sensor to arduino, and the 
